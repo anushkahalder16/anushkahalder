@@ -1,32 +1,28 @@
-# Hi, I’m Anushka Halder 👋
+# Internship Project: Biological Data Analysis
 
-I’m an aspiring interdisciplinary learner with interests in **biotechnology**, **data science**, and **creative arts**.  
-I enjoy exploring how technology, data, and creativity can come together to solve real-world problems.
+## Overview
+This project was completed as part of my internship and focuses on analyzing biological data using Python.
 
-## Areas of Interest
-- Biotechnology & life sciences
-- Data science and data analysis
-- Creative and digital arts
-- Web technologies for presenting data and ideas
+## Objectives
+- Clean and preprocess raw biological datasets
+- Perform exploratory data analysis (EDA)
+- Apply regression models to understand data patterns
 
-## Skills & Tools
-- Python (basics)
-- Data analysis & regression modeling
-- HTML, CSS, JavaScript
-- Git & GitHub
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib / Seaborn
+- Google Colab
 
-## What I’m Currently Doing
-- Learning and applying data science concepts through small projects
-- Exploring web development as a way to showcase work and ideas
-- Building a foundation in biotechnology-related data analysis
+## Project Structure
+- data_preprocessing.ipynb – Data cleaning and preparation
+- exploratory_analysis.ipynb – Visual and statistical analysis
+- modeling.ipynb – Regression modeling and evaluation
 
-## Goals
-- Work at the intersection of biology and data
-- Use technology to communicate scientific ideas effectively
-- Continuously learn across science, technology, and arts
+## Results
+- Identified key trends in the dataset
+- Built regression models to analyze relationships between variables
 
-## Contact
-- GitHub: https://github.com/anushkahalder
-
----
-⭐ This profile will evolve as I build more interdisciplinary projects.
+## Notes
+This project was developed using Google Colab and later uploaded to GitHub.
